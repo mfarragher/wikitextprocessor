@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "wikitextprocessor"
-version = "0.4.96"
+version = "0.5.0"
 description = "Parser and expander for Wikipedia, Wiktionary etc. dump files, with Lua execution support"
 readme = "README.md"
 license = "MIT"
